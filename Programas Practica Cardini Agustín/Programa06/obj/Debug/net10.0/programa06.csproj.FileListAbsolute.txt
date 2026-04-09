@@ -1,0 +1,4 @@
+C:\Users\agus_\OneDrive\Escritorio\Programas Practica Cardini Agustín\Programa06\obj\Debug\net10.0\programa06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\OneDrive\Escritorio\Programas Practica Cardini Agustín\Programa06\obj\Debug\net10.0\programa06.AssemblyInfoInputs.cache
+C:\Users\agus_\OneDrive\Escritorio\Programas Practica Cardini Agustín\Programa06\obj\Debug\net10.0\programa06.AssemblyInfo.cs
+C:\Users\agus_\OneDrive\Escritorio\Programas Practica Cardini Agustín\Programa06\obj\Debug\net10.0\programa06.csproj.CoreCompileInputs.cache
