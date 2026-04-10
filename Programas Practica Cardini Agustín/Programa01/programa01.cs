@@ -29,6 +29,7 @@ class Program
             Console.WriteLine("STOCK DISPONIBLE: " +stock);
             Console.WriteLine("PRECIO TOTAL STOCK:$ " + precio * stock);
 
+//5.fin del programa
             Console.WriteLine("\nPresiona ENTER para salir.");
             Console.ReadLine();
     }
