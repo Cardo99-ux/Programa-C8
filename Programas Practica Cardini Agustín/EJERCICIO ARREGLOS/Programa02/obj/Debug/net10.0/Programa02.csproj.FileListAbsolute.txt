@@ -1,0 +1,14 @@
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\bin\Debug\net10.0\Programa02.exe
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\bin\Debug\net10.0\Programa02.deps.json
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\bin\Debug\net10.0\Programa02.runtimeconfig.json
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\bin\Debug\net10.0\Programa02.dll
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\bin\Debug\net10.0\Programa02.pdb
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.AssemblyInfoInputs.cache
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.AssemblyInfo.cs
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.csproj.CoreCompileInputs.cache
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.dll
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\refint\Programa02.dll
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.pdb
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\Programa02.genruntimeconfig.cache
+C:\Users\agus_\OneDrive\Escritorio\Practica Arreglos\Programa02\obj\Debug\net10.0\ref\Programa02.dll
