@@ -1,0 +1,11 @@
+Consigna: ALMACENAR 20 NOMBRES CON SUS RESPECTIVAS EDADES Y SOLO AQUELLOS MAYOR DE 30 AÑOS
+PODRAN INGRESAR AL BOLICHE,CASO CONTRARIO NO PODRAN INGRESAR AL ESTABLECIMIENTO.
+
+1.Declaro dos arreglos {nombres,edades} de tamaño 20 respectivamente(valor modificable en variable Limite).
+
+2.Inserción de Datos: Mediante un bucle FOR solicitamos al usuario la insercion de 'nombre' y 'edad',ambos
+estaran relacionados por su posicion en los arreglos.(Ej: "Juan Gabriel"-->nombres[0];32-->edades[0])
+
+3.Validación e Impresión: mediante un IF(en este caso ubicado dentro del bucle FOR) comparamos si la edad es mayor al
+indicado,30 años,en donde en caso afirmativo se procede a desplegar un mensaje validando el acceso al 
+establecimiento.Caso contrario se desplega un mensaje negando el acceso al mencionado.
